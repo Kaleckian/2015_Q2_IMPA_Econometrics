@@ -7,4 +7,4 @@ Yes. More than five years ago. And now as a repo due to sentimental value.
 
 * This is old. Very old. And atrocious. Just see the ".csv" files;
 * R base plot functionalities and a lot of nested loops;
-* Use at your own discretion: all of this is actually under the GLWTL License and you know what this supposes to mean.
+* Use at your own discretion: all of this is actually under the GLWTL License and you know what this means.
